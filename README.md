@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibraturk
-- 👀 I’m interested in Javascript and Kotlin
+- 👀 I’m interested in Javascript and Frontend-Dev
 - 🌱 I’m currently learning about Javascript in Platzi.
 - 💞️ I’m looking to collaborate on proyects with friends using Kotlin for android apps. 
 - 📫 How to reach me ...
