@@ -7,8 +7,8 @@ Frontend Developer Jr
 I was learning the last year programming in Platzi, Html, Javascript and css. Layout and design of web tools and version controller management (Git). I am also passionate about Web3 and the crypto world.
 
 * 🌍  I'm based in Argentina
-* ✉️  You can contact me at [ibrach98@gmail.com](mailto:ibrach98@gmail.com)
-* 💻  I'm learning Javascript , CSS , Smart Contracts.
+* ✉️  You can contact me at [ibragragirena@gmail.com](mailto:ibragragirena@gmail.com)
+* 💻  I'm learning Javascript , Html, CSS, Responsive design.
 * ⚡  Also to pay my thech studies i'm working as a Barista in a Specialty coffee shop.
 
 ### Skills
